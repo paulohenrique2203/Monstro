@@ -1,0 +1,162 @@
+*{
+	margin:0;
+    padding: 0;
+}
+section{
+	background:black;
+	height:100vh;
+	position: relative;
+}
+.monstro{
+	background:#32CD32;
+	height:50%;
+	width:10%;
+	top:35%;
+	left:45%;
+	position: absolute;
+	border-radius: 15%;
+}
+.cabeça{
+	background:#32CD32;
+	height:25%;
+	width:15%;
+	top:10%;
+	left:42.5%;
+	position: absolute;
+	border-radius: 15%;
+}
+.olho-1{
+	background:black;
+	height:30%;
+	width:15%;
+	top:10%;
+	left:27%;
+	position: absolute;
+	border-radius: 15%;
+}
+.iris-1{
+	background:red;
+	height:50%;
+	width:50%;
+	top:10%;
+	left:25%;
+	position: absolute;
+	border-radius: 15%;
+}
+.olho-2{
+	background:black;
+	height:30%;
+	width:15%;
+	top:10%;
+	left:56%;
+	position: absolute;
+	border-radius: 15%;
+}
+.iris-2{
+	background:red;
+	height:50%;
+	width:50%;
+	top:10%;
+	left:25%;
+	position: absolute;
+	border-radius: 15%;
+}
+.nariz{
+	background:black;
+	height:30%;
+	width:20%;
+	top:37%;
+	left:39%;
+	position: absolute;
+	border-radius: 15%;
+}
+.bigode-1{
+	background:black;
+	height:120%;
+	width:65%;
+	top:37%;
+	left:-60%;
+	position: absolute;
+	border-radius: 15%;
+}
+.bigode-2{
+	background:black;
+	height:120%;
+	width:65%;
+	top:37%;
+	left:95%;
+	position: absolute;
+	border-radius: 15%;
+}
+.perna-1{
+	background:#32CD32;
+	height:30%;
+	width:50%;
+	top:95%;
+	left:-20%;
+	position: absolute;
+	border-radius: 15%;
+}
+.perna-2{
+	background:#32CD32;
+	height:30%;
+	width:50%;
+	top:95%;
+	left:70%;
+	position: absolute;
+	border-radius: 15%;
+}
+.dedo-1{
+	background:black;
+	height:20%;
+	width:30%;
+	top:60%;
+	left:10%;
+	position: absolute;
+	border-radius: 15%;
+}
+.dedo-2{
+	background:black;
+	height:20%;
+	width:30%;
+	top:75%;
+	left:38%;
+	position: absolute;
+	border-radius: 15%;
+}
+.dedo-3{
+	background:black;
+	height:20%;
+	width:30%;
+	top:60%;
+	left:65%;
+	position: absolute;
+	border-radius: 15%;
+}
+.dedo-4{
+	background:black;
+	height:20%;
+	width:30%;
+	top:60%;
+	left:10%;
+	position: absolute;
+	border-radius: 15%;
+}
+.dedo-5{
+	background:black;
+	height:20%;
+	width:30%;
+	top:75%;
+	left:38%;
+	position: absolute;
+	border-radius: 15%;
+}
+.dedo-6{
+	background:black;
+	height:20%;
+	width:30%;
+	top:60%;
+	left:65%;
+	position: absolute;
+	border-radius: 15%;
+}
