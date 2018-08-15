@@ -1,0 +1,731 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+section{
+	height:100vh;
+	width:193vh;
+	background:#98F5FF;
+	position: relative;
+}.muro{
+	height:35%;
+	width: 30%;
+	top: 40%;
+	left: 2%;
+	background:#EEDD82;
+	position: absolute;
+}
+.porta{
+	height:40%;
+	width: 15%;
+	top: 60%;
+	left: 8%;
+	background:#8B5A2B;
+	position: absolute;
+}
+.coluna{
+	height:100%;
+	width: 3%;
+	top: 0;
+	left: 0;
+	background:black;
+	position: absolute;
+}
+.coluna2{
+	height:100%;
+	width: 3%;
+	top: 0;
+	left: 29%;
+	background:black;
+	position: absolute;
+}
+.cerca{
+	height:20%;
+	width: 68%;
+	top: 80%;
+	left: 32%;
+	background:white;
+	position: absolute;
+}
+.grade{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 5%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade2{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 10%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade3{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 15%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade4{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 20%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade5{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 25%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade6{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 30%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade7{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 35%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade8{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 40%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade9{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 45%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade10{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 50%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade11{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 55%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade12{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 60%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade13{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 65%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade14{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 70%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade15{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 75%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade16{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 80%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade17{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 85%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade18{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 90%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.grade19{
+	height:99%;
+	width: 1%;
+	top: 1%;
+	left: 95%;
+	background:#B5B5B5;
+	position: absolute;
+}
+.arbusto{
+	height:5%;
+	width: 68%;
+	top: 76%;
+	left: 32%;
+	background:#458B00;
+	position: absolute;
+}
+.teto{
+	height:10%;
+	width: 110%;
+	top: -10%;
+	left: -5%;
+	background:black;
+	position: absolute;
+	border-radius: 30px ;
+}
+.fecha{
+	height:10%;
+	width: 110%;
+	top: -10%;
+	left: -5%;
+	background:black;
+	position: absolute;
+	border-radius: 30px ;
+}
+.fecha2{
+	height:8%;
+	width:2%;
+	top: 80%;
+	left: 9%;
+	background:black;
+	position: absolute;
+	border-radius: 30px ;
+}
+.arvore{
+	height:30%;
+	width: 8%;
+	top: 46%;
+	left: 90%;
+	background:#8B5A2B;
+	position: absolute;
+}
+.folhas{
+	height:90%;
+	width: 230%;
+	top: -50%;
+	left: -70%;
+	background:#458B00;
+	position: absolute;
+	border-radius: 20px 10px;
+}
+.janela{
+	height:90%;
+	width: 30%;
+	top: -340%;
+	left: 35%;
+	background:#009ACD;
+	position: absolute;
+	
+}
+.janelaa{
+	height:90%;
+	width: 30%;
+	top: -185%;
+	left: 35%;
+	background:#009ACD;
+	position: absolute;
+	
+}
+.madeira{
+	height:100%;
+	width: 4%;
+	top: 1%;
+	left: 49%;
+	background:black;
+	position: absolute;
+}
+.madeira2{
+	height: 8%;
+	width: 30%;
+	top: -300%;
+	left: 35%;
+	background:black;
+	position: absolute;
+}
+.madeiraa{
+	height:100%;
+	width: 4%;
+	top: 0%;
+	left: 49%;
+	background:black;
+	position: absolute;
+}
+.madeiraa2{
+	height: 7%;
+	width: 30%;
+	top: -145%;
+	left: 35%;
+	background:black;
+	position: absolute;	
+}
+.fruta{
+	height:5%;
+	width: 3%;
+	top: 35%;
+	left: 87%;
+	background:red;
+	position: absolute;
+	border-radius:50%;
+}
+.fruta2{
+	height:5%;
+	width: 3%;
+	top: 35%;
+	left: 98%;
+	background:red;
+	position: absolute;
+	border-radius:50%;
+}
+.fruta3{
+	height:5%;
+	width: 3%;
+	top: 50%;
+	left: 98%;
+	background:red;
+	position: absolute;
+	border-radius:50%;
+}
+.fruta4{
+	height:5%;
+	width: 3%;
+	top: 49%;
+	left: 89%;
+	background:red;
+	position: absolute;
+	border-radius:50%;
+}
+.chamine{
+	height:135%;
+	width: 10%;
+	top: -585%;
+	left: 75%;
+	background:#FF6A6A;
+	position: absolute;
+}
+.borda{
+	height:15%;
+	width: 150%;
+	top: 0;
+	left: -25%;
+	background:black;
+	position: absolute;
+	border-radius: 25px;
+}
+.fumaça{
+	height:120%;
+	width: 60%;
+	top: -355%;
+	left: 45%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.fumaça2{
+	height:10%;
+	width: 45%;
+	top: -25%;
+	left: 15%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.fumaça3{
+	height:10%;
+	width: 30%;
+	top: -25%;
+	left: 90%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.fumaça4{
+	height:25%;
+	width: 130%;
+	top: -100%;
+	left: 150%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.fumaça5{
+	height:10%;
+	width: 55%;
+	top: -80%;
+	left: 85%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.fumaça6{
+	height:10%;
+	width: 45%;
+	top: -60%;
+	left: 180%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.nuvens{
+	height:100%;
+	width: 25%;
+	top: -940%;
+	left: -10%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.dupla{
+	height:100%;
+	width: 200%;
+	top: 50%;
+	left: -50%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.trio{
+	height:100%;
+	width: 70%;
+	top: 40%;
+	left: 20%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.nuvens2{
+	height:100%;
+	width: 25%;
+	top: -700%;
+	left: 110%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.dupla2{
+	height:100%;
+	width: 200%;
+	top: 50%;
+	left: -50%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.trio2{
+	height:100%;
+	width: 70%;
+	top: 40%;
+	left: 20%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.nuvens3{
+	height:100%;
+	width: 25%;
+	top: -930%;
+	left: 210%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.dupla3{
+	height:100%;
+	width: 200%;
+	top: 50%;
+	left: -50%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.trio3{
+	height:100%;
+	width: 70%;
+	top: 40%;
+	left: 20%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.nuvens4{
+	height:100%;
+	width: 25%;
+	top: -930%;
+	left: 390%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.dupla4{
+	height:100%;
+	width: 200%;
+	top: 50%;
+	left: -50%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.trio4{
+	height:100%;
+	width: 70%;
+	top: 40%;
+	left: 20%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.nuvens5{
+	height:100%;
+	width: 25%;
+	top: -700%;
+	left: 300%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.dupla5{
+	height:100%;
+	width: 200%;
+	top: 50%;
+	left: -50%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.trio5{
+	height:100%;
+	width: 70%;
+	top: 40%;
+	left: 20%;
+	background:white;
+	position: absolute;
+	border-radius: 25px;
+}
+.ponta{
+	height: 300%;
+	width: 2.9%;
+	top: -220%;
+	left: 70%;
+	background:black;
+	position: absolute;
+}
+.ponta2{
+	height: 20%;
+	width: 2%;
+	top: 65%;
+	left: 50%;
+	background:black;
+	position: absolute;
+	
+}
+.ponta3{
+	height: 1%;
+	width: 30%;
+	top: 66%;
+	left: 50%;
+	background:black;
+	position: absolute;
+}
+.roupa{
+	height: 8%;
+	width: 5%;
+	top: 66%;
+	left: 65%;
+	background:#BF3EFF;
+	position: absolute;
+}
+.roupa2{
+	height: 8%;
+	width: 2%;
+	top: 66%;
+	left: 74%;
+	background:#FF0000;
+	position: absolute;
+}
+.roupa3{
+	height: 8%;
+	width: 8%;
+	top: 66%;
+	left: 55%;
+	background:#00FF7F;
+	position: absolute;
+}
+.gramado{
+	height: 8%;
+	width: 337%;
+	top: 100%;
+	left: -10%;
+	background:#458B00;
+	position: absolute;
+}
+.calçada{
+	height: 50%;
+	width: 110%;
+	top: 102%;
+	left: -10%;
+	background:#696969;
+	position: absolute;
+}
+.rua{
+	height: 1480%;
+	width: 110%;
+	top: 102%;
+	left: -10%;
+	background:#CDCDB4;
+	position: absolute;
+}
+.listra{
+	height: 8%;
+	width: 35%;
+	top: 50%;
+	left: -10%;
+	background:#FFFF00;
+	position: absolute;
+}
+.listra2{
+	height: 115%;
+	width: 10%;
+	top: 840%;
+	left: 30%;
+	background:#FFFF00;
+	position: absolute;
+}
+.listra3{
+	height: 115%;
+	width: 10%;
+	top: 840%;
+	left: 55%;
+	background:#FFFF00;
+	position: absolute;
+}
+.listra4{
+	height: 115%;
+	width: 10%;
+	top: 840%;
+	left: 80%;
+	background:#FFFF00;
+	position: absolute;
+}
+.carro{
+	height: 100%;
+	width: 10%;
+	top: -150%;
+	left: 35%;
+	background:#CDCDB4;
+	position: absolute;
+}
+.roda{
+	height: 100%;
+	width: 25%;
+	top: 95%;
+	left: 0;
+	background:black;
+	position: absolute;
+	border-radius: 25px;
+	
+}
+.roda2{
+	height: 95%;
+	width: 2.4%;
+	top: -50%;
+	left: 42.5%;
+	background:black;
+	position: absolute;
+	border-radius: 25px;
+	
+}
+.roda3{
+	height: 60%;
+	width: 1.8%;
+	top: -50%;
+	left: 41.9%;
+	background:black;
+	position: absolute;
+	border-radius: 25px;
+
+}
+.roda4{
+	height: 60%;
+	width: 1.8%;
+	top: -50%;
+	left: 36.2%;
+	background:black;
+	position: absolute;
+	border-radius:25px;
+}
+.carro-cima{
+	height: 160%;
+	width: 60%;
+	top: -160%;
+	left: 20%;
+	background:#CDCDB4;
+	position: absolute;
+}
+.vidro{
+	height: 80%;
+	width: 80%;
+	top: 15%;
+	left: 9%;
+	background:	#90EE90;
+	position: absolute;	
+}
+.farol{
+	height: 50%;
+	width: 10%;
+	top: 25%;
+	left: 20%;
+	background:	#E0EEEE;
+	position: absolute;	
+	border-radius: 25px;
+}
+.farol2 {
+	height: 50%;
+	width: 1.1%;
+	top: -125%;
+	left: 41.9%;
+	background:	#E0EEEE;
+	position: absolute;	
+	border-radius: 25px;
+}
